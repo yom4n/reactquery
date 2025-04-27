@@ -11,4 +11,5 @@
 
 
 ~~followed codevolution's playlist~~
-~~but with v5 tho~~
+
+~~but with v5 tho, he's using v3~~
